@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - PALI  || 23 Jun 2021 | 02:11:10 PM
+-------------------------------------------------------------
+Current temperature is: 38.14 deg C
+('Current weather desc  :', 'scattered clouds')
+('Current Humidity      :', 34, '%')
+('Current wind speed    :', 5.16, 'kmph')
